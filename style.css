@@ -1,12 +1,22 @@
 body{
-            background-color: rgba(194, 196, 152, 0.226);
-            color:darkblue;
+            background-color: rgba(225, 235, 222, 0.911);
+            color:darkgreen;
         }
         h1{
-            color:rgb(17, 15, 146);
+            color:black;
         }
         #htm{
-            color:cornsilk;
+            color:darkgreen;
         }
-            </style>
-    
+        #html{
+
+            color: rgb(253, 253, 253);
+        }
+        #curtir{
+
+            background-color: rgb(156, 241, 223);
+            color:rgb(9, 15, 95);
+            padding: 5px 10px 5px 10px;
+            border-color: rgb(89, 204, 166);
+            border-radius: 12px;
+        }
