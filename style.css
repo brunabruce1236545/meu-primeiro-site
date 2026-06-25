@@ -1,6 +1,6 @@
 body{
             background-color: rgba(225, 235, 222, 0.911);
-            color:darkgreen;
+            color:rgb(32, 97, 2);
         }
         h1{
             color:black;
@@ -14,9 +14,9 @@ body{
         }
         #curtir{
 
-            background-color: rgb(156, 241, 223);
-            color:rgb(9, 15, 95);
+            background-color: #f4dbfa;
+            color:rgb(141, 78, 141);
             padding: 5px 10px 5px 10px;
-            border-color: rgb(89, 204, 166);
+            border-color: rgb(223, 145, 223);
             border-radius: 12px;
         }
